@@ -4,7 +4,7 @@
 **eartharoid/eartharoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
 
-Hi, I'm eartharoid. I like coding and photography. I find physics (especially astrophysics) facsinating.
+Hi, I'm eartharoid. I like coding and photography. I find physics (especially astrophysics) fascinating.
 
 - 🔭 I’m currently working on [leekslazylogger](https://github.com/eartharoid/leekslazylogger) and stuff for [Left4Craft](https://github.com/Left4Craft)
 - 🌱 I’m currently learning Java (kind of), and I might have a *go* at Go soon
