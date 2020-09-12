@@ -13,3 +13,5 @@ Hi, I'm eartharoid. I like coding and photography. I find physics (especially as
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=eartharoid&show_icons=true&hide_title=true)
+
+[More stats on sourcerer.io](https://sourcerer.io/eartharoid)
