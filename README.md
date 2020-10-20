@@ -10,8 +10,9 @@ Hi, I'm eartharoid. I like coding and occasionally doing photography. Physics is
 - 🌱 I’m currently learning Java (kind of), and I might have a *go* at Go soon
 - 📫 How to reach me: email me at contact@eartharoid.me, message me on [Discord](https://discord.com/users/319467558166069248), or join my [Discord server](https://go.eartharoid.me/discord)
 - ⚡ Fun fact: Red Dead Redepmtion 2 is my favourite game (Assasins Creed is very good too)
-- :money_with_wings: [Donate at Ko-fi](https://ko-fi.com/eartharoid) *please :)*
+- :money_with_wings: [My Ko-fi page](https://ko-fi.com/eartharoid)
 
+![](https://komarev.com/ghpvc/?username=eartharoid&color=009999&style=flat-square)
 
 ### Stats
 
@@ -30,3 +31,4 @@ Hi, I'm eartharoid. I like coding and occasionally doing photography. Physics is
   <br /><br />
   <a href="https://sourcerer.io/eartharoid">Even more stats on sourcerer.io</a>
 </details>
+
