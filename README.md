@@ -12,7 +12,7 @@ Hi, I'm eartharoid. I like coding and occasionally doing photography. Physics is
 - ⚡ Fun fact: Red Dead Redepmtion 2 is my favourite game (Assasins Creed is very good too)
 - :money_with_wings: [My Ko-fi page](https://ko-fi.com/eartharoid)
 
-![](https://komarev.com/ghpvc/?username=eartharoid&color=009999&style=flat-square)
+![](https://komarev.com/ghpvc/?username=eartharoid&color=009999&style=flat-square) *(since 20th October 2020)*
 
 ### Stats
 
