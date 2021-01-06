@@ -32,3 +32,5 @@ Hi, I'm eartharoid. I like coding and occasionally doing photography. Physics is
   <a href="https://sourcerer.io/eartharoid">Even more stats on sourcerer.io</a>
 </details>
 
+
+[A test blog (blogger.eartharoid.me)](https://blogger.eartharoid.me/): a Blogger blog to test PageRank stuff for college
