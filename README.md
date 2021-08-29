@@ -32,5 +32,7 @@ Hi, I'm eartharoid. I like coding and occasionally doing photography. Physics is
   <a href="https://sourcerer.io/eartharoid">Even more stats on sourcerer.io</a>
 </details>
 
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/319467558166069248
+                            )](https://discord.com/users/319467558166069248)
+                            
 [A test blog (blogger.eartharoid.me)](https://blogger.eartharoid.me/): a Blogger blog to test PageRank stuff for college
