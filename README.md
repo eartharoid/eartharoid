@@ -8,18 +8,21 @@ Hi. I’m Isaac, a 17 year-old student & developer from England. I write code, t
 
 I started messing with code a little in 2016, starting with very basic Node.JS and some basic HTML & CSS only web pages. I have been writing more code every year since, as my GitHub profile shows.
 
-#### Facts about me
+I mostly use JavaScript but I want to try Java again and learn Go.
 
-- 🔭 I’m currently working on stuff for [Left4Craft](https://github.com/Left4Craft) and [Discord Tickets](https://github.com/discord-tickets)
-- 🌱 I’m learning Java (kind of), and I might have a *go* at Go soon
-- 📫 How to reach me: email me at contact@eartharoid.me, message me on [Discord](https://discord.com/users/319467558166069248), or join my [Discord server](https://go.eartharoid.me/discord)
-- ⚡ Fun fact: Red Dead Redemption 2 is my favourite game (Assasins Creed is very good too)
-- :money_with_wings: [My Ko-fi page](https://ko-fi.com/eartharoid)
+<center>
+  <b><a href="https://eartharoid.me">My website</a></b>
+    ···  
+  <b><a href="https://eartharoid.me/about">About me</a></b>
+    ···  
+  <b><a href="https://eartharoid.me/contact">Contact me</a></b>
+    ···  
+  <b><a href="https://go.eartharoid.me/discord">My Discord server</a></b>
+</center>
 
 ### What I'm doing right now
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/319467558166069248
-                            )](https://discord.com/users/319467558166069248)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/319467558166069248)](https://discord.com/users/319467558166069248)
 
 ### Stats
 
