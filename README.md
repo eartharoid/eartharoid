@@ -26,7 +26,7 @@ I mostly use JavaScript but I want to try Java again and learn Go.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=eartharoid&show_icons=true&hide_title=true&bg_color=30,41E296,00C4EE&title_color=fff&text_color=fff)
 
-[![Metrics](https://metrics.lecoq.io/eartharoid?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon&config.display=large)](https://metrics.lecoq.io/about/eartharoid)
+[![Metrics](https://raw.githubusercontent.com/eartharoid/eartharoid/master/github-metrics.svg)](https://metrics.lecoq.io/about/eartharoid)
 
 <hr>
 
