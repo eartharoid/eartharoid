@@ -1,9 +1,5 @@
 ## Hello! 👋
 
-<!--
-**eartharoid/eartharoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
--->
-
 ![GitHub profile views](https://komarev.com/ghpvc/?username=eartharoid&color=009999&style=flat-square) <!-- *(since 20th October 2020)* -->
 
 <hr>
