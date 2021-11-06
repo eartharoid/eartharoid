@@ -8,7 +8,7 @@ Hi. I’m Isaac, a 17 year-old student & developer from England. I write code, t
 
 I started messing with code a little in 2016, starting with very basic Node.JS and some basic HTML & CSS only web pages. I have been writing more code every year since, as my GitHub profile shows.
 
-I mostly use JavaScript but I want to try Java again and learn Go and Kotlin.
+I mostly use JavaScript but I want to try Java again and learn Go, Dart, and Kotlin.
 
 <hr>
 
