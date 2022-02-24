@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-![GitHub profile views](https://komarev.com/ghpvc/?username=eartharoid&color=009999&style=flat-square) <!-- *(since 20th October 2020)* -->
+![GitHub profile views](https://komarev.com/ghpvc/?username=eartharoid&color=009999&style=for-the-badge) <!-- *(since 20th October 2020)* -->
 
 <hr>
 
