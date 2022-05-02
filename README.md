@@ -31,7 +31,7 @@ I mostly use JavaScript but I want to try Java again and learn Go, Dart, and Kot
 
 The things I'm best at, ordered by time.
 
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,html,css,js,github,md,nodejs,discord,bots,cloudflare,git,nginx,vscode,regex,netlify,mysql,prisma,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,html,css,js,github,md,nodejs,discord,bots,cloudflare,git,nginx,vscode,regex,mysql,prisma,netlify,tailwind)](https://skillicons.dev)
 
 #### Confident (less commonly used)
 
