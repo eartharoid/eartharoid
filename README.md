@@ -51,9 +51,16 @@ The things I've tried but don't use much.
 
 ### Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=eartharoid&show_icons=true&hide_title=true&bg_color=30,41E296,00C4EE&title_color=fff&text_color=fff)
+<details>
+  <summary>Click to reveal  stats</summary>
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=eartharoid&show_icons=true&hide_title=true&bg_color=30,41E296,00C4EE&title_color=fff&text_color=fff)
 
-[![Metrics](https://raw.githubusercontent.com/eartharoid/eartharoid/master/github-metrics.svg)](https://metrics.lecoq.io/about/eartharoid)
+  [![Metrics](https://raw.githubusercontent.com/eartharoid/eartharoid/master/github-metrics.svg)](https://metrics.lecoq.io/about/eartharoid)
+
+</details>
+
+
 
 <hr>
 
