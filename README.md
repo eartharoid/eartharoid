@@ -43,7 +43,7 @@ Other things I'm good (ish) at, ordered by time.
 
 The things I've tried but don't use much.
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse,wordpress,php,jquery,sass,deno,figma,materialui,react,nextjs,bash,powershell,prometheus,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,php,java,eclipse,jquery,sass,deno,figma,materialui,react,nextjs,bash,powershell,prometheus,sass)](https://skillicons.dev)
 
 #### Soon™️
 
