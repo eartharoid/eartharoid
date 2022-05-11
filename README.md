@@ -19,7 +19,7 @@ I mostly use JavaScript but I want to try Java again and learn Go, Dart, and Kot
     ···  
   <b><a href="https://eartharoid.me/contact">Contact me</a></b>
     ···  
-  <b><a href="https://go.eartharoid.me/discord">My Discord server</a></b>
+  <b><a href="https://lnk.earth/discord">My Discord server</a></b>
 </p>
 
 <hr>
