@@ -37,7 +37,7 @@ The things I'm best at, ordered by time.
 
 Other things I'm good (ish) at, ordered by time.
 
-[![My Skills](https://skillicons.dev/icons?i=codepen,py,express,linux,vue,firebase,supabase,ts,grafana,svelte,svg)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=codepen,py,express,linux,vue,firebase,supabase,ts,grafana,svelte,svg,workers)](https://skillicons.dev)
 
 #### Other (not commonly used)
 
@@ -47,7 +47,7 @@ The things I've tried but don't use much.
 
 #### Soon™️
 
-[![My Skills](https://skillicons.dev/icons?i=docker,go,mongodb,nuxtjs,kotlin,dart,flutter,workers,remix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,go,mongodb,nuxtjs,kotlin,dart,flutter,remix)](https://skillicons.dev)
 
 ### Stats
 
