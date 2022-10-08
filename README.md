@@ -4,7 +4,7 @@
 
 <hr>
 
-Hi. I’m Isaac, an 18 year-old student & developer from England. I write code, think about code, procrastinate (a lot), and occasionally do photography. I like making things, both physically and digitally. I find science interesting, but also sometimes incredibly boring.
+Hi. I’m Isaac, an 18 year-old developer from England. I write code, think about code, procrastinate (a lot), and occasionally do photography. I like making things, both physically and digitally. I find science interesting, but also sometimes incredibly boring.
 
 I started messing with code a little in 2016, starting with very basic Node.JS and some basic HTML & CSS only web pages. I have been writing more code every year since, as my GitHub profile shows.
 
@@ -31,23 +31,25 @@ I mostly use JavaScript but I want to try Java again and learn Go, Dart, and Kot
 
 The things I'm best at, ordered by time.
 
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,html,css,js,github,md,nodejs,discord,bots,cloudflare,git,nginx,vscode,regex,mysql,prisma,netlify,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,html,css,js,github,md,nodejs,discord,bots,cloudflare,git,nginx,vscode,regex,mysql,prisma,netlify,svelte,tailwind,supabase,workers)](https://skillicons.dev)
 
 #### Confident (less commonly used)
 
 Other things I'm good (ish) at, ordered by time.
 
-[![My Skills](https://skillicons.dev/icons?i=codepen,py,express,linux,vue,firebase,supabase,ts,grafana,svelte,svg,workers)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,express,vue,firebase,ts,grafana,go)](https://skillicons.dev)
 
-#### Other (not commonly used)
 
-The things I've tried but don't use much.
+<details>
+  <summary>Things I have tried but don't use frequently</summary>
+  
+  [![My Skills](https://skillicons.dev/icons?i=wordpress,php,java,eclipse,bootstrap,jquery,sass,deno,figma,materialui,react,nextjs,bash,powershell,prometheus,sass)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,php,java,eclipse,bootstrap,jquery,sass,deno,figma,materialui,react,nextjs,bash,powershell,prometheus,sass)](https://skillicons.dev)
+</details>
 
 #### Soon™️
 
-[![My Skills](https://skillicons.dev/icons?i=docker,go,mongodb,nuxtjs,kotlin,dart,flutter,remix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,mongodb,nuxtjs,kotlin,dart,flutter,remix)](https://skillicons.dev)
 
 ### Stats
 
