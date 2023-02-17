@@ -4,7 +4,7 @@
 
 <hr>
 
-Hi. I’m Isaac, an 18 year-old developer from England. I write code, think about code, procrastinate (a lot), and occasionally do photography. I like making things, both physically and digitally. I find science interesting, but also sometimes incredibly boring.
+Hi. I’m Isaac, an 19 year-old developer from England. I write code, think about code, procrastinate (a lot), and occasionally do photography. I like making things, both physically and digitally. I find science interesting, but also sometimes incredibly boring.
 
 I started messing with code a little in 2016, starting with very basic Node.JS and some basic HTML & CSS only web pages. I have been writing more code every year since, as my GitHub profile shows.
 
@@ -37,7 +37,7 @@ The things I'm best at, ordered by time.
 
 Other things I'm good (ish) at, ordered by time.
 
-[![My Skills](https://skillicons.dev/icons?i=py,express,vue,firebase,ts,grafana,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,express,vue,firebase,ts,grafana,go,docker)](https://skillicons.dev)
 
 
 <details>
@@ -49,7 +49,7 @@ Other things I'm good (ish) at, ordered by time.
 
 #### Soon™️
 
-[![My Skills](https://skillicons.dev/icons?i=docker,mongodb,nuxtjs,kotlin,dart,flutter,remix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,nuxtjs,kotlin,dart,flutter,remix)](https://skillicons.dev)
 
 ### Stats
 
