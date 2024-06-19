@@ -451,7 +451,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 757k out of 138m users</span>
+                                    <span class="gh">ranked 757k out of 136m users</span>
                                 </div>
                                 <div class="text">Published 48 public repositories</div>
                             </div>
@@ -603,7 +603,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="130.95095095095095 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="130.79579579579578 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -626,9 +626,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 56.4k out of 211m repositories</span>
+                                    <span class="gh">ranked 56.5k out of 211m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 845 stars</div>
+                                <div class="text">Maintaining a repository with 844 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -713,7 +713,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 107k out of 138m users</span>
+                                    <span class="gh">ranked 107k out of 136m users</span>
                                 </div>
                                 <div class="text">Followed by 103 users</div>
                             </div>
