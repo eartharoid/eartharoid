@@ -456,7 +456,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 754k out of 142m users</span>
+                                    <span class="gh">ranked 754k out of 141m users</span>
                                 </div>
                                 <div class="text">Published 49 public repositories</div>
                             </div>
@@ -608,7 +608,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="139.01901901901903 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="139.3293293293293 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -631,9 +631,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 54.7k out of 218m repositories</span>
+                                    <span class="gh">ranked 54.5k out of 219m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 897 stars</div>
+                                <div class="text">Maintaining a repository with 899 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -718,7 +718,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 110k out of 142m users</span>
+                                    <span class="gh">ranked 110k out of 141m users</span>
                                 </div>
                                 <div class="text">Followed by 105 users</div>
                             </div>
@@ -914,7 +914,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.24m out of 218m repositories</span>
+                                    <span class="gh">ranked 2.24m out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
