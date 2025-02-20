@@ -2,13 +2,11 @@
 
 ![GitHub profile views](https://komarev.com/ghpvc/?username=eartharoid&color=009999&style=for-the-badge) <!-- *(since 20th October 2020)* -->
 
-<hr>
+Hi. I’m Isaac, a 21 year-old developer from England. I write code, think about code, and occasionally do photography. I like making things, both physically and digitally. I find science interesting, but also sometimes incredibly boring.
 
-Hi. I’m Isaac, an 21 year-old developer from England. I write code, think about code, procrastinate (a lot), and occasionally do photography. I like making things, both physically and digitally. I find science interesting, but also sometimes incredibly boring.
+I started messing with code a little in 2016, starting with very basic Node.JS and some basic HTML & CSS-only web pages. I have been writing more and better code every year since.
 
-I started messing with code a little in 2016, starting with very basic Node.JS and some basic HTML & CSS only web pages. I have been writing more code every year since, as my GitHub profile shows.
-
-I mostly use JavaScript but I want to try Java again and learn Go, Dart, and Kotlin.
+I mostly use JavaScript but I want to try learning and using Kotlin, Go, Dart, and Rust.
 
 <hr>
 
@@ -27,34 +25,37 @@ I mostly use JavaScript but I want to try Java again and learn Go, Dart, and Kot
 
 ### Skills
 
-#### Proficient (commonly used)
-
-The things I'm best at, ordered by time.
-
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,html,css,js,github,md,nodejs,discord,bots,cloudflare,git,nginx,vscode,regex,mysql,prisma,netlify,svelte,tailwind,supabase,workers)](https://skillicons.dev)
-
-#### Confident (less commonly used)
-
-Other things I'm good (ish) at, ordered by time.
-
-[![My Skills](https://skillicons.dev/icons?i=py,express,vue,firebase,ts,grafana,go,docker)](https://skillicons.dev)
-
-
 <details>
-  <summary>Things I have tried but don't use frequently</summary>
+  <summary>Click to reveal skills</summary>
   
-  [![My Skills](https://skillicons.dev/icons?i=wordpress,php,java,eclipse,bootstrap,jquery,sass,deno,figma,materialui,react,nextjs,bash,powershell,prometheus,sass)](https://skillicons.dev)
+  #### Proficient (commonly used)
+
+  The things I'm best at, ordered by time.
+
+  [![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,html,css,js,github,md,nodejs,discord,bots,cloudflare,git,vscode,regex,mysql,prisma,netlify,svelte,tailwind,supabase,workers,ts)](https://skillicons.dev)
+
+  #### Confident (less commonly used)
+
+  Other things I'm good (ish) at, ordered by time.
+
+  [![My Skills](https://skillicons.dev/icons?i=nginx,grafana,docker,mongodb,bash,figma)](https://skillicons.dev)
+
+
+  #### Tried (but don't use frequently)
+
+  [![My Skills](https://skillicons.dev/icons?i=wordpress,php,java,eclipse,bootstrap,sass,react,nextjs,powershell,go)](https://skillicons.dev)
+
+  #### Soon™️
+
+  [![My Skills](https://skillicons.dev/icons?i=kotlin,dart,flutter,rust)](https://skillicons.dev)
 
 </details>
 
-#### Soon™️
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nuxtjs,kotlin,dart,flutter,remix)](https://skillicons.dev)
 
 ### Stats
 
 <details>
-  <summary>Click to reveal  stats</summary>
+  <summary>Click to reveal stats</summary>
   
   ![Stats](https://github-readme-stats.vercel.app/api?username=eartharoid&show_icons=true&hide_title=true&bg_color=30,41E296,00C4EE&title_color=fff&text_color=fff)
 
