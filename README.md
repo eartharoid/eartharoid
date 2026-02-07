@@ -2,7 +2,7 @@
 
 ![GitHub profile views](https://komarev.com/ghpvc/?username=eartharoid&color=009999&style=for-the-badge) <!-- *(since 20th October 2020)* -->
 
-Hi. I’m Isaac, a 21 year-old developer from England. I write code, think about code, and occasionally do photography. I like making things, both physically and digitally. I find science interesting, but also sometimes incredibly boring.
+Hi. I’m Isaac, a 22-year-old developer from England. I write code, think about code, and occasionally do photography. I like making things, both physically and digitally. I find science interesting, but also sometimes incredibly boring.
 
 I started messing with code a little in 2016, starting with very basic Node.JS and some basic HTML & CSS-only web pages. I have been writing more and better code every year since.
 
